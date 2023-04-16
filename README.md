@@ -1,4 +1,4 @@
-# Robotics-and-Intelligent-System -- Telkom-University
+# Robotics and Intelligent-System - Telkom-University
 
 ## Subject
 There are 9 Topics in MK Robotics and Intelligent Systems, which are as follows:
@@ -22,6 +22,6 @@ There are 9 Topics in MK Robotics and Intelligent Systems, which are as follows:
 6. www.ros.org
 
 
-# Name : Mohammad Farrel Rassya
-# NIM : 1103181185
-# Class : Robotics and Intelligent Systems
+### Name : Mohammad Farrel Rassya
+### NIM : 1103181185
+### Class : Robotics and Intelligent Systems
