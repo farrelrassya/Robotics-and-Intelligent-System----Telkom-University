@@ -1,7 +1,7 @@
 # Robotics and Intelligent System - Telkom University
 
 ## Subject
-There are 9 Topics in MK Robotics and Intelligent Systems, which are as follows:
+There are 9 Topics in Robotics and Intelligent Systems, which are as follows:
 
 1. Introduction to Robotics
 2. Translation and Rotation Dynamics
